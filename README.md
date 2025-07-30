@@ -1,5 +1,3 @@
-# testes
-
-saasfasfasfs
-
-asffsaf
++function soma(a, b) {
++  return a + b
++}
